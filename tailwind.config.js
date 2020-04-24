@@ -26,6 +26,10 @@ module.exports = {
       },
     },
   },
-  variants: {},
+  variants: {
+    backgroundColor: ['responsive', 'hover'],
+    borderColor: ['responsive', 'focus'],
+    opacity: [`responsive`, `hover`, `disabled`],
+  },
   plugins: [],
 }
