@@ -4,30 +4,30 @@
 
 @tailwind utilities;
 
-@media (min-width: 768px) {
-    .md\:bg-black { background-color: #000 }
+/* @media (min-width: 768px) {
+    .md\:bg-black { background-color: #000 } */
     /* ... */
-    .md\:hover\:bg-black:hover { background-color: #000 }
+   /*  .md\:hover\:bg-black:hover { background-color: #000 } */
     /* ... */
   
-    .md\:border-black { border-color: #000 }
+   /*  .md\:border-black { border-color: #000 } */
     /* ... */
-    .md\:focus\:border-black:focus { border-color: #000 }
+   /*  .md\:focus\:border-black:focus { border-color: #000 } */
     /* ... */
-  }
+/*   } */
   
 
-@media (min-width: 640px) {
-    .sm\:bg-black { background-color: #000 }
+/* @media (min-width: 640px) {
+    .sm\:bg-black { background-color: #000 } */
     /* ... */
-    .sm\:hover\:bg-black:hover { background-color: #000 }
+    /* .sm\:hover\:bg-black:hover { background-color: #000 } */
     /* ... */
   
-    .sm\:border-black { border-color: #000 }
+  /*   .sm\:border-black { border-color: #000 } */
     /* ... */
-    .sm\:focus\:border-black:focus { border-color: #000 }
+   /*  .sm\:focus\:border-black:focus { border-color: #000 } */
     /* ... */
-  }
+/*   } */
 
 /*   .rotate-45 {
     --transform-rotate:45deg;
